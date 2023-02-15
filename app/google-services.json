@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182868043807",
+    "project_id": "estoque-inviolavel",
+    "storage_bucket": "estoque-inviolavel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182868043807:android:9382248c270ce1bde40d2a",
+        "android_client_info": {
+          "package_name": "com.devgusta.inviolavelestoque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182868043807-n6i8t0lpop05kuulpduvllm3rig5e98q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7bsKPE1u8add51EJKX8YcGueYiNyIf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182868043807-n6i8t0lpop05kuulpduvllm3rig5e98q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
