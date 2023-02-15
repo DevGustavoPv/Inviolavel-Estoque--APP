@@ -14,7 +14,7 @@
  
  
 # :star: Imagens do APP
-![f3](https://user-images.githubusercontent.com/121917774/219212560-53216f87-c0a4-4a3d-8b96-2c695c5cd678.png)      ![f1](https://user-images.githubusercontent.com/121917774/219212675-16fff9c9-437f-4b4e-b057-a8f7de28ff69.png)
+![f3](https://user-images.githubusercontent.com/121917774/219212560-53216f87-c0a4-4a3d-8b96-2c695c5cd678.png)  ![f1](https://user-images.githubusercontent.com/121917774/219212675-16fff9c9-437f-4b4e-b057-a8f7de28ff69.png)
 
 ## :fire: Firebase no projeto
 
